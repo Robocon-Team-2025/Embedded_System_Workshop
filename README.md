@@ -55,8 +55,8 @@ After finishing installing the **Arduino IDE**, now we can start setting it up f
 - After finish installing, you are done with the **Arduino IDE** setup.
 **IMPORTANT** - Before you try to upload your code to ESP32, click on the box highlighted green below.
 ![Image](https://github.com/user-attachments/assets/c780f102-3be3-45f9-999c-0d2e9922919c)
- - Click **Select other board and port...**
- ![Image](https://github.com/user-attachments/assets/7d0a5880-2af8-4b86-8ebb-4a8e736f855c)
+- Click **Select other board and port...**
+![Image](https://github.com/user-attachments/assets/7d0a5880-2af8-4b86-8ebb-4a8e736f855c)
 - At the search bar, type "DOIT ESP32 DEVKIT V1" and press it. Then, press **OK**
 ![Image](https://github.com/user-attachments/assets/07869ec5-1589-4545-b06d-707f4e80d0ee)
 
