@@ -49,14 +49,14 @@ After finishing installing the **Arduino IDE**, now we can start setting it up f
 - Open the **Arduino IDE**, it should be the latest version **Arduino IDE 2.3.3**
 ![Image](https://github.com/user-attachments/assets/25c10c70-67f6-4c87-a8b3-da5959a95683)
 - Click the second icon on the Taskbar, which will open the **BOARDS MANAGER**
-![Image](https://github.com/user-attachments/assets/906c96d7-db37-49c3-8440-a9c0fca48bea)
+- ![Image](https://github.com/user-attachments/assets/906c96d7-db37-49c3-8440-a9c0fca48bea)
 - In the search bar, type "esp32" and press install on the third one, **esp32 by Espressif Systems**
-![Image](https://github.com/user-attachments/assets/7758ccb8-69c5-413b-912f-33d57e9e4bfd)
+- ![Image](https://github.com/user-attachments/assets/7758ccb8-69c5-413b-912f-33d57e9e4bfd)
 - After finish installing, you are done with the **Arduino IDE** setup.
 **IMPORTANT** - Before you try to upload your code to ESP32, click on the box highlighted green below.
-![Image](https://github.com/user-attachments/assets/c780f102-3be3-45f9-999c-0d2e9922919c)
+- ![Image](https://github.com/user-attachments/assets/c780f102-3be3-45f9-999c-0d2e9922919c)
 - Click **Select other board and port...**
-![Image](https://github.com/user-attachments/assets/7d0a5880-2af8-4b86-8ebb-4a8e736f855c)
+- ![Image](https://github.com/user-attachments/assets/7d0a5880-2af8-4b86-8ebb-4a8e736f855c)
 - At the search bar, type "DOIT ESP32 DEVKIT V1" and press it. Then, press **OK**
 ![Image](https://github.com/user-attachments/assets/07869ec5-1589-4545-b06d-707f4e80d0ee)
 
@@ -78,25 +78,15 @@ After finishing installing the **Arduino IDE**, now we can start setting it up f
 
 ### Prompted install
 If Windows prompts you to install a driver for a CP210x device (for example, if you plug a CP210x into your computer)
-
-    1. Use the dialog to browse for the driver location. Select "Browse my computer for drivers"
-    
+1. Use the dialog to browse for the driver location. Select **Browse my computer for drivers**
 ![Image](https://github.com/user-attachments/assets/71dab7b0-217e-4d21-ab6e-8bd2baf2519f)
-
-    2. Locate the driver folder (that you previously unzipped)
-    
+2. Locate the driver folder (that you previously unzipped)
 ![Image](https://github.com/user-attachments/assets/a1f339f6-b791-4253-b818-3ea458e74f07)
-
-    3. Follow the instructions
-    
+3. Follow the instructions
 ### Manual install 
-    1. Using Windows File Explorer, locate the driver folder (that you previously unzipped)
+1. Using Windows File Explorer, locate the driver folder (that you previously unzipped)
 ![Image](https://github.com/user-attachments/assets/d4695b65-0d78-48da-a759-b02779dcbc4f)
-
-    2. Right click on the "silabser.inf" file and select Install
-    
+2. Right click on the **silabser.inf** file and select Install    
 ![Image](https://github.com/user-attachments/assets/113789c8-d324-4d2c-a0dd-d7a32c693f7d)
-
-    3. Follow the instructions 
-     
+3. Follow the instructions      
 ![Image](https://github.com/user-attachments/assets/3c4e5272-0e3d-4f84-ba61-b2b13335d146)
