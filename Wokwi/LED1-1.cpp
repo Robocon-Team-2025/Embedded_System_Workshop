@@ -6,8 +6,8 @@ void setup() {
 }
 
 void loop() {
-  digitalWrite(LEDR_PIN, HIGH);
+  digitalWrite(LEDR_PIN, HIGH); // Turn On LED
   delay(500); // 500 millisecond delay
-  digitalWrite(LEDR_PIN, LOW);
+  digitalWrite(LEDR_PIN, LOW); // Turn Off LEd
   delay(500); // 500 millisecond delay
 }
