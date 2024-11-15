@@ -1,4 +1,4 @@
-// Push Button and Turn on LED
+// Hold to Turn on LED
 const int LEDR_PIN = 23;
 const int BUTTONR_PIN = 25;
 
