@@ -1,4 +1,5 @@
 // LED Dimmer
+// Pin Declaration
 const int LEDR_PIN  = 23;
 
 void setup() {
