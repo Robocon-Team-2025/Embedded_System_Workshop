@@ -19,7 +19,7 @@ void loop() {
   int wait = analogRead(POT_PIN);
   int light = analogRead(POT_PIN);
   wait = map(wait,0,4095,100,1000); // Delay can be change from 100 to 1000
-  light = map(wait,0,4095,0,255); // Brightness can be change from 0 to 255
+  light = map(light,0,4095,0,255); // Brightness can be change from 0 to 255
   analogWrite(LEDR_PIN,light);
   delay(wait);
   analogWrite(LEDG_PIN,light);
