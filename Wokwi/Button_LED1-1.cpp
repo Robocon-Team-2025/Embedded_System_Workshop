@@ -1,4 +1,5 @@
 // Hold to Turn on LED
+// Pin Declaration
 const int LEDR_PIN = 23;
 const int BUTTONR_PIN = 25;
 
