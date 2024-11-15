@@ -4,3 +4,4 @@
 - [LED 2](https://wokwi.com/projects/414491687015155713)
 ## Button
 
+- [Button 2](https://wokwi.com/projects/414617060232074241)
