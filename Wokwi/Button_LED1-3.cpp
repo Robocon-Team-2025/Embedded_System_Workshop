@@ -1,4 +1,3 @@
-#include  <Arduino.h>
 // Toggle LED
 const int LEDR_PIN = 23;
 const int BUTTONR_PIN = 25;
