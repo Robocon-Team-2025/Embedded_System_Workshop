@@ -1,4 +1,5 @@
 // Multiple LED Toggle
+// Pin Declaration
 const int LEDR_PIN = 23;
 const int LEDG_PIN = 22;
 const int LEDB_PIN = 21;
@@ -6,10 +7,12 @@ const int BUTTONR_PIN = 25;
 const int BUTTONG_PIN = 26;
 const int BUTTONB_PIN = 27;
 
+// Variables for Button
 bool debounce = false;
 const int deb_time = 100;
 unsigned long curr_time = 0;
 
+// Variables for LED
 bool light[3] = {0,0,0}; // Index: Red - 0, Green - 1 , Blue - 2
 
 void setup() {
