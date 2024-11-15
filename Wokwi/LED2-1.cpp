@@ -1,4 +1,3 @@
-#include <Arduino.h>
 // LED Chaser
 const int LEDR_PIN  = 23;
 const int LEDG_PIN  = 22;
