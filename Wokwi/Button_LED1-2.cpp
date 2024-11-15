@@ -1,11 +1,14 @@
 // Toggle LED
+// Pin Declaration
 const int LEDR_PIN = 23;
 const int BUTTONR_PIN = 25;
 
+// Variables for Button
 bool debounce = false;
 const int deb_time = 100;
 unsigned long curr_time = 0;
 
+// Variable for LED
 bool light = false;
 
 void setup() {
