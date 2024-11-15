@@ -1,1 +1,1 @@
-### This folder is used to store the sreenshot used
+# This folder is used to store the sreenshot used
