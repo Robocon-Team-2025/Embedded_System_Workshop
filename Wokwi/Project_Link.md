@@ -7,7 +7,7 @@
 - [Button 2](https://wokwi.com/projects/414617060232074241)
 ## Potentiometer
 - [Potentiometer 1](https://wokwi.com/projects/414657299306730497)
-- [Potentiometer 2](https://wokwi.com/projects/414617060232074241)
+- [Potentiometer 2](https://wokwi.com/projects/414658940188789761)
 ## Servo Motor
 -
 -
