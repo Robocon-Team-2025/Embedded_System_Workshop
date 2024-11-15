@@ -1,4 +1,4 @@
-// Multiple LED Toggle Button
+// Multiple LED Toggle
 const int LEDR_PIN = 23;
 const int LEDG_PIN = 22;
 const int LEDB_PIN = 21;
