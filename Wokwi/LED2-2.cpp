@@ -1,7 +1,10 @@
 // LED Loading Bar
+// Pin Declaration
 const int LEDR_PIN  = 23;
 const int LEDG_PIN  = 22;
 const int LEDB_PIN  = 21;
+
+// Variables for Loading
 const int speed = 5;
 const int wait = 10;
 
