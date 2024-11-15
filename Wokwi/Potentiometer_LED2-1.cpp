@@ -1,4 +1,3 @@
-#include <Arduino.h>
 // Chaser
 // Pin Declaration
 const int LEDR_PIN  = 23;
