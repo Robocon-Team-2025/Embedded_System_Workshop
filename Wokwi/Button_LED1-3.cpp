@@ -1,4 +1,4 @@
-// Toggle LED
+// Toggle Between Blinker and Dimmer
 const int LEDR_PIN = 23;
 const int BUTTONR_PIN = 25;
 
