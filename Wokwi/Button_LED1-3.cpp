@@ -1,4 +1,5 @@
-// Toggle LED to Blink
+#include  <Arduino.h>
+// Toggle LED
 const int LEDR_PIN = 23;
 const int BUTTONR_PIN = 25;
 
@@ -24,12 +25,21 @@ void loop(){
   }
 
   if (blink == true) {
-    digitalWrite(LEDR_PIN,HIGH);
+    analogWrite(LEDR_PIN,255);
     delay(wait);
-    digitalWrite(LEDR_PIN,LOW);
+    analogWrite(LEDR_PIN,0);
     delay(wait);
   }
   else {
-    digitalWrite(LEDR_PIN,LOW);
+    // LED Dimmer
+    for (int i = 0; i <= 255; i++) {
+      analogWrite(LEDR_PIN,i); 
+      delay(10);
+    }
+    for (int i = 255; i >= 0; i--) {
+      analogWrite(LEDR_PIN,i);
+      delay(10);
+    }
+    blink = true;
   }
 }
