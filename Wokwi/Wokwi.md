@@ -6,26 +6,49 @@
 - Our goal is to give you hands-on experience with the **ESP32**, helping you understand its architecture, peripherals, and programming environment. Throughout the workshop, you'll learn how to set up and program the **ESP32** using simulator like [Wokwi](https://wokwi.com/projects/new/esp32), explore its GPIO, sensors, and actuators, and implement simple projects.
 - Whether you’re new to microcontrollers or have experience with other platforms, this workshop will equip you with practical skills and insights to design your own embedded solutions using the **ESP32**. We’ll begin with the basics and gradually progress to advanced projects, ensuring a strong foundational understanding. Get ready to bring your ideas to life through the power of embedded systems! 
 
-# Install VSCode and Setup Wokwi with VSCode
-## DISCLAIMER: Wokwi with VSCode is not free, and this guide will only 30 day free license  
+# Install VSCode and Setup Wokwi for VS Code
+## DISCLAIMER: Wokwi for VS Code is not free, and this guide will only provide you the version with 30 day free license. However, you can use different email to activate a new 30 day license.   
 
-## Setup Arduino IDE
+## Install VS Code
 
 - Download Arduino IDE:
-    1) Go to [Arduino](https://www.arduino.cc/en/software).
+    1) Go to [Visual Studio Code](https://code.visualstudio.com/download).
     2) Choose a build according to your operating system.
-### Download
-
+![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-01.png) 
 
 **The following part is for Window Users ONLY.**
-### Extraction 
-> - After finish downloading, there should be a zip file in your downloaded location. 
+### Installation
+> - After finish downloading, there should be a file called **VSCodeUserSetup-x64-1.95.3** in your downloaded location.
+> ![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-02.png)
+> - Double Click on the file mentioned above.  
+> ![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-03.png)
+> - Check all the boxes as shown below and follow the instruction.  
+> ![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-041.png)
+> ![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-05.png)
+> ![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-06.png) 
+> ![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-07.png)
 
-> - Before extracting the zip file, please navigate to your **C: drive**.
+### Setup Wokwi for VS Code
+- After finish installation, Visual Studio Code should be opened by itself
+![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-08.png)
+- Click on the last icon on the Taskbar, which will open **Extensions**  
+![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-091.png)
+- In the search bar, type "platformio".
+![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-10.png) 
+![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-11.png) 
+![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-12.png) 
+![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-13.png) 
+![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-14.png) 
+![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-14.png) 
+![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-15.png) 
+![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-16.png) 
+![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-17.png) 
+![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-18.png) 
+![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-19.png) 
+![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-20.png) 
+![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-21.png) 
 
 >
-> - After navigating to your **C: drive**, create a new folder by pressing **New**.
-> - Name the Folder as **Arduino_IDE**.
 >
 > - Please navigate back to your **Downloads** folder and select the zip file. Then, press **Cut**. 
 
