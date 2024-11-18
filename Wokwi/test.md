@@ -7,7 +7,7 @@
 - Whether you’re new to microcontrollers or have experience with other platforms, this workshop will equip you with practical skills and insights to design your own embedded solutions using the **ESP32**. We’ll begin with the basics and gradually progress to advanced projects, ensuring a strong foundational understanding. Get ready to bring your ideas to life through the power of embedded systems! 
 
 # Install VSCode and Setup Wokwi with VSCode
-# DISCLAIMER 
+## DISCLAIMER: Wokwi with VSCode is not free, and this guide will only 30 day free license  
 
 ## Setup Arduino IDE
 
@@ -58,7 +58,7 @@ After finishing installing the **Arduino IDE**, now we can start setting it up f
 ## Install ESP32 Driver
 
 - Download Silicon Labs CP210x USB to UART Driver:
-    1) Go to [CP210x Driver](https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads).
+    
     2) Choose the appropriate software according to your operating system.
 
 
