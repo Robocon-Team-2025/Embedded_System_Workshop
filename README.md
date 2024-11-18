@@ -19,31 +19,33 @@
     1) Go to [Arduino](https://www.arduino.cc/en/software).
     2) Choose a build according to your operating system.
 
-![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Screenshot%202024-11-15%20210514.png)
-![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Screenshot%202024-11-15%20210856.png)
+![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-1.png)
 - Click on **Just Download** to download the software or **Contribute and Download** if you feel generous.
-![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Screenshot%202024-11-15%20210908.png)
+![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-2.png)
 - Then, they will ask you again. This time also click on **Just Download**. 
-![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Screenshot%202024-11-15%20210921.png)
+![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-3.png)
 
-**The following part is for Window Users ONLY. For Mac and Linux User, please come early and ask for help from facilitators if you need it.**
+**The following part is for Window Users ONLY.**
  
 - After finish downloading, there should be a zip file in your downloaded location. 
-![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Screenshot%202024-11-15%20210930.png)
-- Right click on the file and select extract all. This window should appear.
-![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Screenshot%202024-11-15%20210936.png)
+![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-4.png)
+- Before extracting the zip file, please navigate to your **C: drive**.
+![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-5.png)
 
-### ERROR OCCUR WHILE EXTRACTING
-> When extracting the zip file, if an error happened saying that your PATH name is too long. Cancel the extraction and delete the partially extracted folder.  
-![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Screenshot%202024-11-15%20210948.png)
+- After navigating to your **C: drive**, create a new folder by pressing **New**
+![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-6.png)
+![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-7.png)
+- Name the Folder as **Arduino_IDE**
+![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-8.png)
 
-> Go to C:\ and create a new folder, named it whatever you want. Inside the folder, create a folder called "Arduino_IDE"
-> Move the zip file inside and extract again. This issue should disappear.
- 
-- After finish extraction, this should be inside the folder and you're done
-![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Screenshot%202024-11-15%20211001.png)
+- Please navigate back to your **Downloads** folder and select the zip file. Then, press **Cut**. 
+![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-9.png)
+
+- Finally, navigate back to the **Arduino_IDE** folder and paste in the zip file
+![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-10.png)
+
+
 - You can use the Arduino IDE.exe file to open **Arduino IDE**
-![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Screenshot%202024-11-15%20211011.png)
 - **BONUS** - You can add the shortcut to this app to your home screen by doing this
 ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Screenshot%202024-11-15%20211030.png)
 
