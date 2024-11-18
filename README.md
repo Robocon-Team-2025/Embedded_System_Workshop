@@ -18,43 +18,51 @@
 - Download Arduino IDE:
     1) Go to [Arduino](https://www.arduino.cc/en/software).
     2) Choose a build according to your operating system.
-
-![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-01.png)
-- Click on **Just Download** to download the software or **Contribute and Download** if you feel generous.
-![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-02.png)
-- Then, they will ask you again. This time also click on **Just Download**. 
-![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-03.png)
+### Download
+> ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-01.png)
+> - Click on **Just Download** to download the software or **Contribute and Download** if you feel generous.
+> ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-02.png)
+> - Then, they will ask you again. This time also click on **Just Download**. 
+> ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-03.png)
 
 **The following part is for Window Users ONLY.**
- 
-- After finish downloading, there should be a zip file in your downloaded location. 
-![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-04.png)
-- Before extracting the zip file, please navigate to your **C: drive**.
-![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-05.png)
-
-- After navigating to your **C: drive**, create a new folder by pressing **New**.
-![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-06.png)
-![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-07.png)
-- Name the Folder as **Arduino_IDE**.
-![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-08.png)
-
-- Please navigate back to your **Downloads** folder and select the zip file. Then, press **Cut**. 
-![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-09.png)
-
-- Finally, navigate back to the **Arduino_IDE** folder and paste in the zip file.
-![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-10.png)
-![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-11.png)
-
-- Select the zip file, and press **Extract all**.
-![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-12.png)
-
-- Follow the instruction.
-![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-13.png)
-
-- You can use the Arduino IDE.exe file to open **Arduino IDE**
-- **BONUS** - You can add the shortcut to this app to your home screen by doing this
-![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Screenshot%202024-11-15%20211030.png)
-
+### Extraction 
+> - After finish downloading, there should be a zip file in your downloaded location. 
+> ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-04.png)
+> - Before extracting the zip file, please navigate to your **C: drive**.
+> ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-05.png)
+>
+> - After navigating to your **C: drive**, create a new folder by pressing **New**.
+> ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-06.png)
+> ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-07.png)
+> - Name the Folder as **Arduino_IDE**.
+> ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-08.png)
+>
+> - Please navigate back to your **Downloads** folder and select the zip file. Then, press **Cut**. 
+> ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-09.png)
+>
+> - Finally, navigate back to the **Arduino_IDE** folder and paste in the zip file.
+> ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-10.png)
+> ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-11.png)
+>
+> - Select the zip file, and press **Extract all**.
+> ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-12.png)
+>
+> - Follow the instruction.  
+>  ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-13.png)
+>  ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-14.png)
+> - After finishing the extraction, this window should popped up showing the extracted content.
+>  ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-15.png)
+> - You can use the Arduino IDE.exe file to open **Arduino IDE**
+> - **BONUS** - You can add the shortcut to this app to your home screen by doing this
+>  ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-16.png)
+>  ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-17.png)
+>  ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-18.png)
+>  ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-19.png)
+>  ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-20.png)
+>  ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-21.png)
+>  ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-22.png)
+>  ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-23.png)
 After finishing installing the **Arduino IDE**, now we can start setting it up for the ESP32 board.
 - Open the **Arduino IDE**, it should be the latest version **Arduino IDE 2.3.3**
 ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Screenshot%202024-11-15%20211048.png)
