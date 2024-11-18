@@ -3,11 +3,11 @@
 ## Introduction
 
 ### Welcome to the using ESP32 simulation with Wokwi!
-- Our goal is to give you hands-on experience with the **ESP32**, helping you understand its architecture, peripherals, and programming environment. Throughout the workshop, you'll learn how to set up and program the **ESP32** using the **Arduino IDE** and also using simulator like [Wokwi](https://wokwi.com/projects/new/esp32), explore its GPIO, sensors, and actuators, and implement simple projects.
+- Our goal is to give you hands-on experience with the **ESP32**, helping you understand its architecture, peripherals, and programming environment. Throughout the workshop, you'll learn how to set up and program the **ESP32** using simulator like [Wokwi](https://wokwi.com/projects/new/esp32), explore its GPIO, sensors, and actuators, and implement simple projects.
 - Whether you’re new to microcontrollers or have experience with other platforms, this workshop will equip you with practical skills and insights to design your own embedded solutions using the **ESP32**. We’ll begin with the basics and gradually progress to advanced projects, ensuring a strong foundational understanding. Get ready to bring your ideas to life through the power of embedded systems! 
 
-
-# Setup Arduino IDE and Install required ESP32 driver
+# Install VSCode and Setup Wokwi with VSCode
+# DISCLAIMER 
 
 ## Setup Arduino IDE
 
@@ -15,11 +15,7 @@
     1) Go to [Arduino](https://www.arduino.cc/en/software).
     2) Choose a build according to your operating system.
 ### Download
-> ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-01.png)
-> - Click on **Just Download** to download the software or **Contribute and Download** if you feel generous.
-> ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-02.png)
-> - Then, they will ask you again. This time also click on **Just Download**. 
-> ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/Arduino-03.png)
+
 
 **The following part is for Window Users ONLY.**
 ### Extraction 
@@ -75,30 +71,4 @@ After finishing installing the **Arduino IDE**, now we can start setting it up f
     1) Go to [CP210x Driver](https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads).
     2) Choose the appropriate software according to your operating system.
 
-**The following part is for Window Users ONLY.**
-### Download
-> - Select the **CP210x Universal Windows Driver** and download it.
-> ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/CP210X-1.png)  
-> - After the download finished, the file should be available in your **Downloads** folder. 
-> ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/CP210X-2.png)  
-> - Select the zip file and click **Extract all**.  
-> ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/CP210X-3.png)
-> - Follow the instruction.  
-> ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/CP210X-4.png)
 
-### Manual Install
-> - After finish extracting, navigate into the extracted folder.  
-> ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/CP210X-5.png)
-> - Select the file called "silabser.inf" with **Setup Information** type.
-> ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/CP210X-61.png)
-> - Follow the instruction.  
-> ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/CP210X-7.png)  
-> - For details and installation guide about the driver, please refer to the text document **CP210x_Universal_Windows_Driver_ReleaseNotes.txt**. 
-
-### Prompted install
-> If Windows prompts you to install a driver for a CP210x device (for example, if you plug a CP210x into your computer)
-> 1. Use the dialog to browse for the driver location. Select **Browse my computer for drivers**
-> ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/CP210X-8.png)  
-> 2. Locate the driver folder (that you previously unzipped)
-> ![Image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/CP210X-9.png)  
-> 3. Follow the instructions.  
