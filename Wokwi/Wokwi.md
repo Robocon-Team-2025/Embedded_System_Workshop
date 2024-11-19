@@ -29,11 +29,11 @@
 > ![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-07.png)
 
 ### Setup Wokwi for VS Code
-- After finish installation, Visual Studio Code should be opened by itself
+- After finish installation, Visual Studio Code should be opened by itself.
 ![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-08.png)
-- Click on the last icon on the Taskbar, which will open **Extensions**  
+- Click on the last icon on the Taskbar, which will open **Extensions**.  
 ![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-091.png)
-- In the search bar, type "platformio".
+- In the search bar, type "platformio". Select the first one **PlatformIO IDE**.  
 ![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-10.png) 
 ![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-11.png) 
 ![image](https://github.com/Robocon-Team-2025/Embedded_System_Workshop/blob/main/Image/VSCode-12.png) 
